@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.divblue {
+    
+    float: left;
+    height: 100%;
+    width: 33.3333%;
+    background: deepskyblue;
+}
+
+.divaqua {
+    
+    float: left;
+    height: 100%;
+    width: 33.3333%;
+    background: darkturquoise;
+}
+
+.divgreen {
+    
+    float: left;
+    height: 100%;
+    width: 33.3333%;
+    background: darkkhaki;
+    
+    
+}
+
+
+.content {
+    height: 75%;
+    background: darkkhaki;
+    margin: 0;
+}
+
+.imagePlaceHolder {
+    height: 25%;
+    background: red;
+    margin: 0;
+    
+
+}
+
+.imageHolderText {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+
+}
