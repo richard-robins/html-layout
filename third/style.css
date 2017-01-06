@@ -1,0 +1,56 @@
+.body {
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.div{
+  height: 13%;
+  background: blue;
+}
+
+
+.divYellow {
+  height: 13%;
+  background: yellow;
+}
+
+.divDarkKhaki {
+  height: 13%;
+  background: darkkhaki;
+}
+
+.divAquamarine{
+  height: 13%;
+  background: aquamarine;
+}
+
+.divDeepSkyBlue{
+  height: 13%;
+  background: deepskyblue;
+}
+
+.divBig {
+  height: 22%;
+  background: white;
+}
+
+.divLightGrey{
+  height: 13%;
+  background: lightgrey;
+}
+
+
+.square {
+  height: 80px;
+  width: 80px;
+  backgroud: deepskyblue;
+  float: left;
+
+
+}
+
+.content {
+  font-family: sans-serif;
+  padding: 30px;
+}
