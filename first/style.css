@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.nav {
+    background:#444;
+    height: 15%;
+}
+
+.maindiv {
+    background: #fff;
+    display: inline-block;
+    height: 85%;
+    width: 60%;
+    float: left; 
+}
+
+.div {
+    display: inline-block;
+    height: 85%;
+    width: 20%;
+    background: lightgray;
+    box-sizing: border-box;
+    float: left;
+    
+}
+
+
+
+/*.right {
+    display: inline-block;
+    height: 85%;
+    width: 20%;
+    background: blue;
+    float: left;
+    
+}
+*/
+.content {
+    height: 90%;
+    margin: 0;
+}
+
+.footer {
+    background: #333;
+    height: 10%;
+    width: 100%;
+}
